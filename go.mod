@@ -62,9 +62,9 @@ require (
 	github.com/toqueteos/webbrowser v1.2.0
 	github.com/urfave/negroni v1.0.0
 	go.uber.org/automaxprocs v1.3.0
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/crypto v0.1.0
 	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
-	golang.org/x/tools v0.1.7
+	golang.org/x/tools v0.1.12
 	gopkg.in/DataDog/dd-trace-go.v1 v1.33.0
 	gopkg.in/square/go-jose.v2 v2.6.0
 )
